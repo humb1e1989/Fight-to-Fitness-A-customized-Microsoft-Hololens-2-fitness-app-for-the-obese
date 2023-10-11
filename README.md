@@ -4,6 +4,8 @@
 
 # Table of content
 
+## Apparatus
+
 ## Requirement Discovery
 
 ## Product Iteration
