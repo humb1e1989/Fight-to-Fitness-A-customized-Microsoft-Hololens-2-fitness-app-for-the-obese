@@ -4,7 +4,7 @@
 
 # Table of content
 
-## Apparatus
+## Developemnt Apparatus
 
 ## Requirement Discovery
 
